@@ -6,6 +6,9 @@ My name is Walkiria Torres, i'm passionate about solving problems, learning and 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walkiriatorres)](https://github.com/walkiriatorres/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walkiriatorres&show_icons=true&theme=radical)
+
+
 <!--
 **walkiriatorres/walkiriatorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
