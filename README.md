@@ -6,8 +6,8 @@ My name is Walkiria Torres, i'm passionate about solving problems, learning and 
 
 
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walkiriatorres&show_icons=true&theme=radical)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkiriatorres&layout=compact)](https://github.com/walkiriatorres/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walkiriatorres&show_icons=true&theme=radical) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkiriatorres&layout=compact)](https://github.com/walkiriatorres/github-readme-stats)
 
 
 <!--
