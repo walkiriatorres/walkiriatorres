@@ -14,6 +14,9 @@ My name is Walkiria Torres, i'm passionate about solving problems, learning and 
 🤝Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/walkiria-gonçalves/)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walkiriatorres&show_icons=true&theme=radical)
+
 <!--
 **walkiriatorres/walkiriatorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
