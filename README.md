@@ -2,7 +2,10 @@
 My name is Walkiria Torres, i'm passionate about solving problems, learning and always open to news challenges
 
 - 🎓 Studying system analysis and development at FICR
-- 💬 Learning about FrontEnd Development
+- 💬 Learning about FrontEnd & Backend Development
+- 🏦 Banking from 9 am to 5 pm
+- 🤝 Available all day
+  "Sozinhos vamos mais rápido. Juntos vamos mais longe." Let's go together? 🚀
 <hr>
 
 🏆My Github Stats<br/><br/>
